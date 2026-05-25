@@ -1,0 +1,19 @@
+{
+  "total_units": 658,
+  "badge_distribution": {
+    "GOLD": 305,
+    "SILVER": 323,
+    "BRONZE": 30
+  },
+  "risk_distribution": {
+    "LOW": 253,
+    "MEDIUM": 242,
+    "HIGH": 163
+  },
+  "score_statistics": {
+    "mean": 70.49392097264437,
+    "median": 69.0,
+    "min": 37,
+    "max": 100
+  }
+}

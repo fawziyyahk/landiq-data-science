@@ -1,0 +1,659 @@
+mapping_unit,badge,total_score,degradation_risk,suitability,drainage,ph_range,slope,soil_texture,major_crops,risk_factors
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+15b,GOLD,82,MEDIUM,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,4.5 - 4.9,0 - 2%,Sandy Loam,"Tobbaco,Cotton,Millet,Upland rice,Guinea Corn,Groundnut,Maize",pH stress - may need amendment
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+1d,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,6.6 - 6.9,0 - 2%,Sandy Clay,"Millets, Groundnut,Maize,Cotton,Sorghum,Tobacco and Vegetables",Waterlogging risk - poor drainage
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+16b,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 5.8,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Sugarcane,Maize",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+16b,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 5.8,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Sugarcane,Maize",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+16b,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 5.8,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Sugarcane,Maize",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15f,GOLD,73,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,8.5 - 8.7,0 - 2%,Clay Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Yam,Irish Potatoes",Waterlogging risk - poor drainage; pH stress - may need amendment
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+4a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+19a,SILVER,64,MEDIUM,Moderately Suitable,Moderately Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+19a,SILVER,57,HIGH,Moderately Suitable,Poorly Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",Waterlogging risk - poor drainage; pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+4a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+4a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+15f,GOLD,73,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,8.5 - 8.7,0 - 2%,Clay Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Yam,Irish Potatoes",Waterlogging risk - poor drainage; pH stress - may need amendment
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+20a,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5.,0 - 6%,Sandy Clay,"Sorghum,G.Nuts,Cowpea,Irish Potatoes,Yam,Cassava",Well-suited for sustainable agriculture
+18b,SILVER,57,HIGH,Moderately Suitable,Poorly Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+4a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+16a,GOLD,88,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,5.4 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Millet,Cowpea,Groundnut,Maize and Cotton",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15f,GOLD,73,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,8.5 - 8.7,0 - 2%,Clay Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Yam,Irish Potatoes",Waterlogging risk - poor drainage; pH stress - may need amendment
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15a,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,6.3 - 8.5,0 - 2%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18b,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",pH stress - may need amendment
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+18b,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",pH stress - may need amendment
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+18b,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18c,GOLD,85,LOW,Moderately Suitable,Well Drained,5.6 - 6.1.,0 - 2%,Sandy Clay,"Sorghum,Millet,Irish Potatoes,Maize,Yam,Cocoayams.",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+15f,GOLD,73,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,8.5 - 8.7,0 - 2%,Clay Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Yam,Irish Potatoes",Waterlogging risk - poor drainage; pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+20a,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5.,0 - 6%,Sandy Clay,"Sorghum,G.Nuts,Cowpea,Irish Potatoes,Yam,Cassava",Well-suited for sustainable agriculture
+18c,GOLD,85,LOW,Moderately Suitable,Well Drained,5.6 - 6.1.,0 - 2%,Sandy Clay,"Sorghum,Millet,Irish Potatoes,Maize,Yam,Cocoayams.",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+20a,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5.,0 - 6%,Sandy Clay,"Sorghum,G.Nuts,Cowpea,Irish Potatoes,Yam,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+20a,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5.,0 - 6%,Sandy Clay,"Sorghum,G.Nuts,Cowpea,Irish Potatoes,Yam,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15f,GOLD,73,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,8.5 - 8.7,0 - 2%,Clay Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Yam,Irish Potatoes",Waterlogging risk - poor drainage; pH stress - may need amendment
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+1d,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,6.6 - 6.9,0 - 2%,Sandy Clay,"Millets, Groundnut,Maize,Cotton,Sorghum,Tobacco and Vegetables",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+1d,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,6.6 - 6.9,0 - 2%,Sandy Clay,"Millets, Groundnut,Maize,Cotton,Sorghum,Tobacco and Vegetables",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+20a,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5.,0 - 6%,Sandy Clay,"Sorghum,G.Nuts,Cowpea,Irish Potatoes,Yam,Cassava",Well-suited for sustainable agriculture
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+19c,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava, Yam,Plantain,Maize,Oil Palm,Vegetables",Well-suited for sustainable agriculture
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18b,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",pH stress - may need amendment
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+20b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1,0 - 6%,Silty Loam,"Cassava,Yam,Millet,Sorghum,Maize,Rice,vegetables",Well-suited for sustainable agriculture
+20b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1,0 - 6%,Silty Loam,"Cassava,Yam,Millet,Sorghum,Maize,Rice,vegetables",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18b,SILVER,57,HIGH,Moderately Suitable,Poorly Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+23a,BRONZE,37,HIGH,Currently Not Suitable,Well Drained,3.9 - 4.4,13 - 55%,Sandy Clay,-,High erosion risk due to steep slope; pH stress - may need amendment
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+17a,GOLD,84,MEDIUM,Fairly Higly Suitable with few physical limitation,Moderately Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+18a,GOLD,79,LOW,Moderately Suitable,Well Drained,7.0 - 7.8,0 - 6%,Sandy Loam,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+20b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1,0 - 6%,Silty Loam,"Cassava,Yam,Millet,Sorghum,Maize,Rice,vegetables",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+20b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1,0 - 6%,Silty Loam,"Cassava,Yam,Millet,Sorghum,Maize,Rice,vegetables",Well-suited for sustainable agriculture
+10a,GOLD,79,LOW,Moderately Suitable,Moderately Drained,5.1 - 6.5,0 - 6%,Clay Loam,"Cassava,Yam,Rice,Cocoa,Oil palm,Plantain, Banana,Vegetables",Well-suited for sustainable agriculture
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22b,SILVER,52,MEDIUM,Marginally Suitable,Well Drained,3.9 - 4.2,0 - 13%,Sandy Loam,"Sorghum,Millet,Maize,Yam,Cassava,Rice,Vegetable",pH stress - may need amendment
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+6b,GOLD,83,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy Clay,"Yam,Rice,Cass,Plantain,Bana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+10a,GOLD,79,LOW,Moderately Suitable,Moderately Drained,5.1 - 6.5,0 - 6%,Clay Loam,"Cassava,Yam,Rice,Cocoa,Oil palm,Plantain, Banana,Vegetables",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2c,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,5.5 - 5.9,0 - 2%,Silty Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+9a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.1 - 6.0,0 - 6%,Sandy Clay,"Yam,Rice,Cass,Plantain,Maize,Cocoa,OilPalm,Rubber,Vegetables",Well-suited for sustainable agriculture
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+6a,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.9,0 - 2%,Sandy Loam,"Yam,Rice,Cass,Plantain,MaizeBana,Cocoa,OilPalm,Fruits,Vegetables",Well-suited for sustainable agriculture
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+20b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1,0 - 6%,Silty Loam,"Cassava,Yam,Millet,Sorghum,Maize,Rice,vegetables",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+19c,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava, Yam,Plantain,Maize,Oil Palm,Vegetables",Well-suited for sustainable agriculture
+19b,GOLD,79,LOW,Moderately Suitable,Well Drained,5.1 - 5.5,0 - 6%,Silty Clay,"Cassava, Yam,Rice, Plantain,Maize,Oil Palm,vegetables",Well-suited for sustainable agriculture
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+21a,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 6.9,0 - 6%,Sandy Clay,"Yam,Rice,Maize,Sorghum,Groundnut,Millet,Cottom",Well-suited for sustainable agriculture
+6b,GOLD,83,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy Clay,"Yam,Rice,Cass,Plantain,Bana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+24a,BRONZE,39,MEDIUM,Currently Not Suitable,Imperfectly Drained,5.1 - 5.6,13 - 55%,Concretionary Clay,"Yam,Rice,Cassava,OilPalm,Plantain,Vegetables",High erosion risk due to steep slope
+19c,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava, Yam,Plantain,Maize,Oil Palm,Vegetables",Well-suited for sustainable agriculture
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+9a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.1 - 6.0,0 - 6%,Sandy Clay,"Yam,Rice,Cass,Plantain,Maize,Cocoa,OilPalm,Rubber,Vegetables",Well-suited for sustainable agriculture
+6a,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.9,0 - 2%,Sandy Loam,"Yam,Rice,Cass,Plantain,MaizeBana,Cocoa,OilPalm,Fruits,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5d,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.2 - 4.7,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,Plantain,OilPalm,Vegetables",pH stress - may need amendment
+5a,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.3,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Well-suited for sustainable agriculture
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+18b,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,4.2 - 4.6,0 - 6%,Sandy Loam,"Rice,Yam,Cassava,Plantain,Sorghum,Millet,Cowpea,Maize and vegetables",pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+19c,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava, Yam,Plantain,Maize,Oil Palm,Vegetables",Well-suited for sustainable agriculture
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+15d,GOLD,87,MEDIUM,Fairly Higly Suitable with few physical limitation,Poorly Drained,6.6 - 7.3,0 - 6%,Sandy Clay,"Vegetables,Sorghum,Yam,Maize,Rice,Cow Pea, Millet,Cotton,  Banana",Waterlogging risk - poor drainage
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+17a,GOLD,77,HIGH,Fairly Higly Suitable with few physical limitation,Poorly Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope; Waterlogging risk - poor drainage
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+17a,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 22%,Sandy Clay,"Cassava,Yam,Plantain,Oil Palm,Sorghum,Acha,Maize,Rice,Irish Potatoes, Millet,Cotton",High erosion risk due to steep slope
+21b,SILVER,69,LOW,Marginally Suitable,Well Drained,4.9 - 6.5,0 - 6%,Sandy Loam,"Sorghum,Cowpea,Millet,Cottom, Maize.",Well-suited for sustainable agriculture
+22a,SILVER,46,HIGH,Marginally Suitable,Shallow Drained,6.2 - 6.2,0 - 13%,Sandy Loam,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice.",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+19a,SILVER,69,MEDIUM,Moderately Suitable,Well Drained,8.5 - 9.1,0 - 6%,Sandy Clay,"Cassava,Yam,Rice,Maize.Cocoa,Oil palm,Millet,Sorghum, Cowpea,Cotton,Groundnut",pH stress - may need amendment
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5a,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.3,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+8b,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.6 - 6.0,0 - 2 and 5 - 30%,Sandy Clay,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+8b,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.6 - 6.0,0 - 2 and 5 - 30%,Sandy Clay,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+8b,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.6 - 6.0,0 - 2 and 5 - 30%,Sandy Clay,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+14a,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,3.6 - 5.0,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",pH stress - may need amendment
+14b,GOLD,90,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.1 - 5.8,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",Well-suited for sustainable agriculture
+14a,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,3.6 - 5.0,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",pH stress - may need amendment
+7a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.0 - 5.8,0 - 6%,Clay Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5b,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.7 - 5.8,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm",Well-suited for sustainable agriculture
+7a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.0 - 5.8,0 - 6%,Clay Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+7a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.0 - 5.8,0 - 6%,Clay Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5d,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.2 - 4.7,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,Plantain,OilPalm,Vegetables",pH stress - may need amendment
+5b,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.7 - 5.8,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5f,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.2 - 6.0,0 - 2%,Sandy Clay,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+6a,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.9,0 - 2%,Sandy Loam,"Yam,Rice,Cass,Plantain,MaizeBana,Cocoa,OilPalm,Fruits,Vegetables",Well-suited for sustainable agriculture
+7b,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.6 - 4.8,0 - 6%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",pH stress - may need amendment
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5b,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.7 - 5.8,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5d,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.2 - 4.7,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,Plantain,OilPalm,Vegetables",pH stress - may need amendment
+7a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.0 - 5.8,0 - 6%,Clay Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5d,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.2 - 4.7,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,Plantain,OilPalm,Vegetables",pH stress - may need amendment
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+9a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.1 - 6.0,0 - 6%,Sandy Clay,"Yam,Rice,Cass,Plantain,Maize,Cocoa,OilPalm,Rubber,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+12a,GOLD,79,LOW,Moderately Suitable,Well Drained,4.5 - 5.5,0 - 6%,Sandy Loam,"Cassava,Yam,Rice,Maize,Oil palm,Plantain,Vegetables",Well-suited for sustainable agriculture
+6a,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.9,0 - 2%,Sandy Loam,"Yam,Rice,Cass,Plantain,MaizeBana,Cocoa,OilPalm,Fruits,Vegetables",Well-suited for sustainable agriculture
+9a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.1 - 6.0,0 - 6%,Sandy Clay,"Yam,Rice,Cass,Plantain,Maize,Cocoa,OilPalm,Rubber,Vegetables",Well-suited for sustainable agriculture
+5c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm,Fruits",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5a,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.3,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Well-suited for sustainable agriculture
+2c,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,5.5 - 5.9,0 - 2%,Silty Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+5c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm,Fruits",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm,Fruits",Well-suited for sustainable agriculture
+6a,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.1 - 5.9,0 - 2%,Sandy Loam,"Yam,Rice,Cass,Plantain,MaizeBana,Cocoa,OilPalm,Fruits,Vegetables",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+5c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,4.5 - 5.5,0 - 2%,Sandy Loam,"Yam,Rice,Maize,Cassava,Cocoa,OilPalm,Fruits",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+10a,GOLD,79,LOW,Moderately Suitable,Moderately Drained,5.1 - 6.5,0 - 6%,Clay Loam,"Cassava,Yam,Rice,Cocoa,Oil palm,Plantain, Banana,Vegetables",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+14a,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,3.6 - 5.0,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",pH stress - may need amendment
+14a,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,3.6 - 5.0,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",pH stress - may need amendment
+17b,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 5.8,0 - 2%,Sandy Loam,"Cassava,Yam,Rice,Cocoa,Oil palm, Maize",Well-suited for sustainable agriculture
+7b,GOLD,89,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.6 - 4.8,0 - 6%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",pH stress - may need amendment
+5f,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.2 - 6.0,0 - 2%,Sandy Clay,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+5e,GOLD,90,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,4.3 - 4.9,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",pH stress - may need amendment
+7a,GOLD,94,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.0 - 5.8,0 - 6%,Clay Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+2c,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,5.5 - 5.9,0 - 2%,Silty Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+15e,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,6.2 - 6.2,0 - 2%,Sandy Clay,"Sorghum,Maize,Yam,Cassava,Millet,Upland rice",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+14a,GOLD,85,MEDIUM,Fairly Higly Suitable with few physical limitation,Well Drained,3.6 - 5.0,0 - 2%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",pH stress - may need amendment
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+22c,SILVER,48,HIGH,Marginally Suitable,Poorly Drained,5.8 - 7.0,0 - 13%,Sandy Clay,"Yam,Sorghum,Cassava,Groundnut,Maize,Cotton,Cocoa",Waterlogging risk - poor drainage; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+21c,SILVER,69,LOW,Marginally Suitable,Well Drained,5.6 - 5.9,0 - 6%,Sandy Clay,"Yam,Rice,Cass,SugarCan,Millets,Groundnut,Sorghum,Bean,Cowpea,Cotton,Cassava",Well-suited for sustainable agriculture
+15g,GOLD,92,LOW,Fairly Higly Suitable with few physical limitation,Imperfectly Drained,6.3,0 - 2%,Sandy Clay,"Sorghum,Cotton,Groundnut,Millet,Cowpea,Maize,Cocoa yam,Cassava",Well-suited for sustainable agriculture
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+7c,GOLD,100,LOW,Fairly Higly Suitable with few physical limitation,Well Drained,5.6 - 6.5,0 - 2%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",Well-suited for sustainable agriculture
+8a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 2 and 5 - 30%,Sandy Loam,"Yam,Rice,Cassava,Maize,Cocoa,OilPalm",High erosion risk due to steep slope
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+13a,SILVER,64,MEDIUM,Marginally Suitable,Well Drained,5.1 - 7.3,6 - 25%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+11a,GOLD,77,MEDIUM,Moderately Suitable,Well Drained,5.1 - 6.5,0 - 6% and 5 - 30%,Sandy Clay,"Maize, Rice,Cassava,Yam,Cocoa,Oil Palm",High erosion risk due to steep slope
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+18d,GOLD,80,LOW,Moderately Suitable,Moderately Drained,5.5 - 6.3,0 - 2%,Clay Loam,"Sugarcane,Cassava,Yam,Irish Potatoes,Cocoa,Rubber,Groundnut,MilletSorghum,Cowpea,Rice,OilPalm",Well-suited for sustainable agriculture
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+24b,SILVER,45,HIGH,Currently Not Suitable,Well Drained,5.1 - 6.6,13 - 55%,Sandy Clay,"Sorghum,Millet,Cowpea,Cotton,G.nuts,Beans,Maize,Yam",High erosion risk due to steep slope; Shallow soil - limited root depth
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+2c,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,5.5 - 5.9,0 - 2%,Silty Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+2a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.9 - 4.9,0 - 2%,Sandy Loam,"Yam, Rice,Maize, Millet,Irish Potatoes",Waterlogging risk - poor drainage
+2b,GOLD,80,LOW,Moderately Suitable,Well Drained,6.5 - 7.8,0 - 2%,Loamy Fine Sand,"Sorghum,Millet,Cowpea,Cotton,Maize,Yam,Vegetables,Rice",Well-suited for sustainable agriculture
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+2c,GOLD,73,MEDIUM,Moderately Suitable,Poorly Drained,5.5 - 5.9,0 - 2%,Silty Loam,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Vegetables",Waterlogging risk - poor drainage
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1a,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.6 - 5.0,0 - 2%,Sandy Loam,"Yam,Maize,Rice,Cassava,OilPalm,Cocoa,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1b,SILVER,63,HIGH,Moderately Suitable,Poorly Drained,4.5 - 5.2,0 - 2%,Sandy Clay,"Yam,Fruits,Rice,Cassava,OilPalm,,Coconuts,Vegetables",Waterlogging risk - poor drainage; pH stress - may need amendment
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+1c,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,5.0 - 5.5,0 - 2%,Sandy,"Yam,Rice,Cassava,Plantain,Banana,Cocoa,OilPalm,Fruits and Vegetables",Waterlogging risk - poor drainage
+3a,SILVER,68,MEDIUM,Moderately Suitable,Poorly Drained,7.0 - 8.4,0 - 2%,Sandy Loam,"Groundnut,Sorghum,Cotton,Maize,Millet,Cowpea",Waterlogging risk - poor drainage
+15c,GOLD,95,LOW,Fairly Higly Suitable with few physical limitation,Moderately Drained,5.9 - 6.3,0 - 2%,Sandy Loam,"Groundnut,Millet,Cotton,Tobacco,Vegetables",Well-suited for sustainable agriculture

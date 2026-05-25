@@ -1,0 +1,60 @@
+{
+  "single_location_test": {
+    "success": true,
+    "location": {
+      "latitude": 11.9964,
+      "longitude": 8.5211
+    },
+    "soil_health": {
+      "badge": "SILVER",
+      "score": 68,
+      "degradation_risk": "MEDIUM"
+    },
+    "properties": {
+      "mapping_unit": "2a",
+      "suitability": "Moderately Suitable",
+      "ph_range": "5.9 - 4.9",
+      "drainage": "Poorly Drained",
+      "slope": "0 - 2%",
+      "soil_texture": "Sandy Loam",
+      "depth": "Deep, Mostly Deep",
+      "ecological_zone": "Wet Land Soils"
+    },
+    "agriculture": {
+      "major_crops": "Yam, Rice,Maize, Millet,Irish Potatoes",
+      "vegetation": "Riparian forest, Sorghum"
+    },
+    "explanation": "\ud83e\udd48 Good soil health (Score: 68/100). This land can support reliable crop production with proper management.\n\n\u26a0 Poor drainage - may need water management\n\u2713 Deep soil - good root development\n\u2713 Gentle slope - low erosion risk"
+  },
+  "comparison_test": {
+    "success": true,
+    "total_locations": 3,
+    "successful_assessments": 2,
+    "comparison": [
+      {
+        "name": "Kano area",
+        "latitude": 11.9964,
+        "longitude": 8.5211,
+        "badge": "SILVER",
+        "score": 68,
+        "degradation_risk": "MEDIUM",
+        "explanation": "\ud83e\udd48 Good soil health (Score: 68/100). This land can support reliable crop production with proper management.\n\n\u26a0 Poor drainage - may need water management\n\u2713 Deep soil - good root development\n\u2713 Gentle slope - low erosion risk"
+      },
+      {
+        "name": "Abuja area",
+        "latitude": 9.082,
+        "longitude": 7.5324,
+        "badge": "SILVER",
+        "score": 48,
+        "degradation_risk": "HIGH",
+        "explanation": "\ud83e\udd48 Good soil health (Score: 48/100). This land can support reliable crop production with proper management.\n\n\u26a0 Poor drainage - may need water management\n\u26a0 Shallow soil - limits some crops\n\u26a0 Steep slope - erosion control needed"
+      }
+    ],
+    "recommendation": {
+      "name": "Kano area",
+      "badge": "SILVER",
+      "score": 68,
+      "reason": "Highest soil health score with SILVER rating"
+    }
+  }
+}

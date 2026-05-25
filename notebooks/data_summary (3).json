@@ -1,0 +1,48 @@
+{
+  "total_records": 658,
+  "columns": [
+    "ID",
+    "MAPPING_UN",
+    "GEOLOGY",
+    "SLOPE",
+    "ECOLOGICAL",
+    "DRAINAGE",
+    "SOIL_PH",
+    "PH_DESCRIP",
+    "SUITABILIT",
+    "SOIL_TEXTU",
+    "SOIL_CLASS",
+    "VEGETATION",
+    "DISTRIBUTI",
+    "SOIL_CLA_1",
+    "PERCENTAGE",
+    "MAJOR_CROP",
+    "Depth",
+    "geometry"
+  ],
+  "suitability_distribution": {
+    "Moderately Suitable": 270,
+    "Fairly Higly Suitable with few physical limitation": 173,
+    "Currently Not Suitable": 119,
+    "Marginally Suitable": 96
+  },
+  "drainage_distribution": {
+    "Well Drained": 319,
+    "Poorly Drained": 193,
+    "Moderately Drained": 75,
+    "Imperfectly Drained": 64,
+    "Shallow Drained": 7
+  },
+  "ecological_zones": {
+    "Savannah Soils": 427,
+    "Wet Land Soils": 137,
+    "Rainforest Soils": 74,
+    "Rain forest Soils": 20
+  },
+  "geographic_bounds": {
+    "min_lon": 2.451429629088108,
+    "min_lat": 4.3919549113228715,
+    "max_lon": 14.777616251051061,
+    "max_lat": 13.927350558912927
+  }
+}
